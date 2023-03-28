@@ -1,4 +1,3 @@
-How to use it in Cloud Services
 
 The approach used in the cloud section included the following steps:  
 1. Choosing a cloud platform like Amazon Web Services (AWS), Google Cloud Platform (GCP), and Microsoft Azure. 
