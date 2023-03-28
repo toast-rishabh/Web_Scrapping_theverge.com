@@ -1,6 +1,6 @@
-##How to use it in Cloud Services
+How to use it in Cloud Services
 
-#The approach used in the cloud section included the following steps:  
+The approach used in the cloud section included the following steps:  
 1. Choosing a cloud platform like Amazon Web Services (AWS), Google Cloud Platform (GCP), and Microsoft Azure. 
 2. Create a virtual machine (VM on a cloud platform with the necessary specifications like memory, cpu, and storage to run my python code.  
 3. Install python and necessary libraries like scrapy, pandas, json, and requests on the VM to fetch items from edge.com.   
